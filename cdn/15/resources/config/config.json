@@ -1,0 +1,4888 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_0"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "Page"
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "21.8%",
+            "right": "18.7%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "59.5%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_1",
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "hCenter": false,
+            "vCenter": false,
+            "heightMode": "fixed",
+            "aspectRatio": 1,
+            "lockLayout": true
+          }
+        },
+        "3": {
+          "type": "SECTION",
+          "sectionId": "section_1",
+          "bbox": {
+            "left": "81.3%",
+            "right": "-0.1%",
+            "top": "6.5%",
+            "bottom": "0.0%",
+            "width": "18.8%",
+            "height": "93.5%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH"
+            },
+            "vCenter": false
+          }
+        },
+        "4": {
+          "type": "WIDGET",
+          "widgetId": "widget_11",
+          "bbox": {
+            "left": "81.2%",
+            "right": "0.0%",
+            "top": "1.3%",
+            "bottom": "95.0%",
+            "width": "18.8%",
+            "height": "3.7%"
+          },
+          "setting": {
+            "autoProps": {
+              "width": "STRETCH",
+              "height": "AUTO",
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": true
+            },
+            "hCenter": false
+          }
+        },
+        "5": {
+          "type": "SECTION",
+          "sectionId": "section_2",
+          "bbox": {
+            "left": "0.0%",
+            "right": "78.2%",
+            "top": "5.3%",
+            "bottom": "45.8%",
+            "width": "21.8%",
+            "height": "48.9%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        },
+        "6": {
+          "type": "WIDGET",
+          "widgetId": "widget_17",
+          "bbox": {
+            "left": "0.0%",
+            "right": "78.2%",
+            "top": "54.9%",
+            "bottom": "0.0%",
+            "width": "21.8%",
+            "height": "45.1%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        },
+        "7": {
+          "type": "WIDGET",
+          "widgetId": "widget_22",
+          "bbox": {
+            "left": "0.0%",
+            "right": "78.2%",
+            "top": "0.0%",
+            "bottom": "94.7%",
+            "width": "21.8%",
+            "height": "5.3%"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            }
+          }
+        }
+      },
+      "order": [
+        "0",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "layout_1": {
+      "type": "FIXED",
+      "label": "Map FixedLayout",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_13",
+          "bbox": {
+            "left": "14.1%",
+            "right": "37.1%",
+            "top": "2.3%",
+            "bottom": "93.7%",
+            "width": "48.8%",
+            "height": "4.1%"
+          },
+          "setting": {
+            "autoProps": {
+              "height": "AUTO",
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": true
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_6": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_6",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": true,
+              "bottom": false,
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_7": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_10",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_8": {
+      "type": "FIXED",
+      "content": {
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_16",
+          "bbox": {
+            "left": "0%",
+            "right": "0%",
+            "top": "0%",
+            "bottom": "0%",
+            "width": "100%",
+            "height": "100%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": false,
+              "top": false,
+              "bottom": false,
+              "height": "STRETCH",
+              "width": "STRETCH"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
+        }
+      },
+      "order": [
+        "1"
+      ]
+    },
+    "layout_10": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_21",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_11": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_23",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      },
+      "order": [
+        "0"
+      ]
+    }
+  },
+  "exbVersion": "1.21.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/master/",
+  "forBuilderAttributes": {
+    "lockLayout": false,
+    "viewPortSize": {
+      "LARGE": {
+        "width": 1600,
+        "height": 900
+      }
+    }
+  },
+  "template": "blankfullscreen",
+  "widgets": {
+    "widget_1": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.21.0",
+      "config": {
+        "toolConfig": {
+          "canZoom": true,
+          "canHome": true,
+          "canSearch": true,
+          "canNavigation": true,
+          "canBaseMap": true,
+          "canSelect": true,
+          "canSelectState": true,
+          "canMeasure": true
+        },
+        "isUseCustomMapState": false,
+        "initialMapState": null,
+        "disablePopUp": true,
+        "showPopupUponSelection": false,
+        "popupDockPosition": "",
+        "layoutIndex": "custom-layout",
+        "preLayoutIndex": 0,
+        "customLayoutPlacement": {
+          "leftTop": {
+            "isCornerHorizontal": false,
+            "cornerGroupChildren": [],
+            "horizontalGroupChildren": [],
+            "verticalGroupChildren": []
+          },
+          "rightTop": {
+            "isCornerHorizontal": false,
+            "cornerGroupChildren": [
+              "Search"
+            ],
+            "horizontalGroupChildren": [],
+            "verticalGroupChildren": [
+              "BaseMap",
+              "Measure"
+            ]
+          },
+          "rightBottom": {
+            "isCornerHorizontal": true,
+            "cornerGroupChildren": [
+              "SelectState"
+            ],
+            "horizontalGroupChildren": [],
+            "verticalGroupChildren": [
+              "ClearActionData"
+            ]
+          },
+          "leftBottom": {
+            "isCornerHorizontal": false,
+            "cornerGroupChildren": [
+              "Home"
+            ],
+            "horizontalGroupChildren": [
+              "Navigation"
+            ],
+            "verticalGroupChildren": [
+              "Zoom",
+              "Select"
+            ]
+          }
+        },
+        "initialMapDataSourceID": "dataSource_1",
+        "scaleRange": null,
+        "customLODs": null
+      },
+      "id": "widget_1",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_1"
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1",
+          "mainDataSourceId": "dataSource_1"
+        }
+      ],
+      "label": "Map",
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "isOperationalLayer": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      }
+    },
+    "widget_6": {
+      "uri": "widgets/arcgis/map-layers/",
+      "version": "1.21.0",
+      "label": "Map Layers",
+      "config": {
+        "useMapWidget": true,
+        "customizeLayerOptions": {
+          "widget_1-29074bab7513407e8e720d9edf9137d6": {
+            "isEnabled": true,
+            "hiddenJimuLayerViewIds": [],
+            "showJimuLayerViewIds": [
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e8a0faaab-layer-56",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd666d-layer-56",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd666d-layer-57",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd666d-layer-55",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-40",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd29a9-layer-38",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-41",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-50",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-49",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-48",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-47",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd710c-layer-58",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e8901081a-layer-59",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-46",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-45",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-44",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e890138db-layer-60",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-43",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd581d-layer-52",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76e-layer-37",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-36",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-35",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-34",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-33",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-32",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-30",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-29",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76c-layer-28",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce862-layer-26",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce862-layer-25",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce861-layer-24",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce861-layer-23",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce861-layer-22",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce860-layer-21",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce860-layer-20",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce85f-layer-19",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce85f-layer-18",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a044973-layer-53-19e88fccd0e-layer-13",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a044973-layer-53-19e88fccd0d-layer-12",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a044973-layer-53-19e88fccd0c-layer-11",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48e2-layer-9",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48e1-layer-7",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48e2-layer-8",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48e0-layer-6",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48df-layer-5",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48de-layer-4",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48db-layer-3",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a044973-layer-53",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19fcdb754ec-layer-54",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19faee133f9-layer-53",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f2447177a-layer-58",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471779-layer-57",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471777-layer-56",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-1a0edd9afef-layer-59",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-1a0edd9afef-layer-59-1a0edd9b1ec-layer-62",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-1a0edd9afef-layer-59-1a0edd9b1ec-layer-61",
+              "widget_1-29074bab7513407e8e720d9edf9137d6-1a0edd9afef-layer-59-1a0edd9b1ec-layer-60"
+            ]
+          }
+        },
+        "enableLegend": false,
+        "showAllLegend": true,
+        "searchLayers": true,
+        "expandAllLayers": false,
+        "label": true,
+        "useTickBoxes": true
+      },
+      "id": "widget_6",
+      "useMapWidgetIds": [
+        "widget_1"
+      ]
+    },
+    "widget_10": {
+      "uri": "widgets/arcgis/legend/",
+      "version": "1.21.0",
+      "label": "Legend",
+      "config": {
+        "legendMode": "show-visible"
+      },
+      "id": "widget_10",
+      "useMapWidgetIds": [
+        "widget_1"
+      ]
+    },
+    "widget_11": {
+      "uri": "widgets/common/navigator/",
+      "version": "1.21.0",
+      "label": "Views Navigation",
+      "config": {
+        "data": {
+          "type": "AUTO",
+          "section": "section_1",
+          "views": []
+        },
+        "display": {
+          "advanced": true,
+          "vertical": false,
+          "type": "nav",
+          "navStyle": "default",
+          "standard": {
+            "scrollable": true,
+            "textAlign": "center",
+            "gap": "0px",
+            "showText": true,
+            "showIcon": false,
+            "iconPosition": "start"
+          },
+          "variant": {
+            "item": {
+              "default": {
+                "bold": true,
+                "size": "20px",
+                "border": {
+                  "color": "var(--mixin-shared-theme-button-bg)"
+                }
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_11"
+    },
+    "widget_13": {
+      "uri": "widgets/common/search/",
+      "version": "1.21.0",
+      "inControllerUx": "offPanel",
+      "label": "Search",
+      "config": {
+        "searchResultView": "Result_Panel",
+        "arrangementStyle": "Style1",
+        "searchResultStyle": "Classic",
+        "maxSuggestions": 6,
+        "recentSearchesMaxNumber": 6,
+        "resultMaxNumber": 6,
+        "enableFiltering": false,
+        "sourceType": "MapCentric",
+        "dataSourceConfigWithMapCentric": {
+          "widget_1-29074bab7513407e8e720d9edf9137d6": {
+            "dataSourceConfig": [
+              {
+                "configId": "config_0",
+                "icon": null,
+                "label": "Pavement Marking Symbols",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f2447177a-layer-58",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f2447177a-layer-58",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "assetid",
+                    "markingtype"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Marking ID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Marking ID"
+                  },
+                  {
+                    "jimuName": "markingtype",
+                    "name": "markingtype",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Marking Type"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_1",
+                "icon": null,
+                "label": "Pavement Marking Stripes",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471779-layer-57",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471779-layer-57",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "assetid",
+                    "markingtype"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Marking ID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Marking ID"
+                  },
+                  {
+                    "jimuName": "markingtype",
+                    "name": "markingtype",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Marking Type"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_2",
+                "icon": null,
+                "label": "Pavement Marking Areas",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471777-layer-56",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471777-layer-56",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "assetid",
+                    "markingtype"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Marking ID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Marking ID"
+                  },
+                  {
+                    "jimuName": "markingtype",
+                    "name": "markingtype",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Marking Type"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_3",
+                "icon": null,
+                "label": "Guardrails - Guardrails",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e8a0faaab-layer-56",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e8a0faaab-layer-56",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "assetid",
+                    "grdrailtype"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Guardrail ID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Guardrail ID"
+                  },
+                  {
+                    "jimuName": "grdrailtype",
+                    "name": "grdrailtype",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Guardrail Type"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_4",
+                "icon": null,
+                "label": "Parking Segments",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-40",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-40",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID",
+                    "SurfaceType"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  },
+                  {
+                    "jimuName": "SurfaceType",
+                    "name": "SurfaceType",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "SurfaceType"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_5",
+                "icon": null,
+                "label": "Sidewalks Assets",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd29a9-layer-38",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd29a9-layer-38",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID",
+                    "SurfaceType"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  },
+                  {
+                    "jimuName": "SurfaceType",
+                    "name": "SurfaceType",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "SurfaceType"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_6",
+                "icon": null,
+                "label": "Road Segments",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-41",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-41",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID",
+                    "SurfaceType"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  },
+                  {
+                    "jimuName": "SurfaceType",
+                    "name": "SurfaceType",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "SurfaceType"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_7",
+                "icon": null,
+                "label": "Picnic Shelters",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-47",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-47",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID",
+                    "Notes"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  },
+                  {
+                    "jimuName": "Notes",
+                    "name": "Notes",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Notes"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_8",
+                "icon": null,
+                "label": "Landscape Areas",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd710c-layer-58",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd710c-layer-58",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "LocationName",
+                    "Landscape"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "LocationName",
+                    "name": "LocationName",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Location Name"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "LocationName",
+                    "name": "LocationName",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Location Name"
+                  },
+                  {
+                    "jimuName": "Landscape",
+                    "name": "Landscape",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Landscape"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_9",
+                "icon": null,
+                "label": "Earth Planters",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e8901081a-layer-59",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e8901081a-layer-59",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "esrignss_positionsourcetype",
+                    "PotType"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "esrignss_positionsourcetype",
+                    "name": "esrignss_positionsourcetype",
+                    "type": "NUMBER",
+                    "esriType": "esriFieldTypeInteger",
+                    "alias": "Position source type",
+                    "fieldFormat": {
+                      "type": "number",
+                      "minimumFractionDigits": 0,
+                      "maximumFractionDigits": 0,
+                      "useGrouping": "auto"
+                    }
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "esrignss_positionsourcetype",
+                    "name": "esrignss_positionsourcetype",
+                    "type": "NUMBER",
+                    "esriType": "esriFieldTypeInteger",
+                    "alias": "Position source type",
+                    "fieldFormat": {
+                      "type": "number",
+                      "minimumFractionDigits": 0,
+                      "maximumFractionDigits": 0,
+                      "useGrouping": "auto"
+                    }
+                  },
+                  {
+                    "jimuName": "PotType",
+                    "name": "PotType",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Pot Type"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_10",
+                "icon": null,
+                "label": "Athletic Fields and Courts",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-46",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-46",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID",
+                    "AthleticFieldType"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  },
+                  {
+                    "jimuName": "AthleticFieldType",
+                    "name": "AthleticFieldType",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AthleticFieldType"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_11",
+                "icon": null,
+                "label": "Playgrounds",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-45",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-45",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID",
+                    "Playground"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  },
+                  {
+                    "jimuName": "Playground",
+                    "name": "Playground",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Playground"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_12",
+                "icon": null,
+                "label": "Avon Pavilion and Stage",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-44",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-44",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID",
+                    "Name"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  },
+                  {
+                    "jimuName": "Name",
+                    "name": "Name",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Name"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_13",
+                "icon": null,
+                "label": "Trees",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e890138db-layer-60",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e890138db-layer-60",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "commonname",
+                    "assetid"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "commonname",
+                    "name": "commonname",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Common name"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "commonname",
+                    "name": "commonname",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Common name"
+                  },
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Tree ID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_14",
+                "icon": null,
+                "label": "Stormwater Manhole",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76e-layer-37",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76e-layer-37",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID",
+                    "Size"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  },
+                  {
+                    "jimuName": "Size",
+                    "name": "Size",
+                    "type": "NUMBER",
+                    "esriType": "esriFieldTypeDouble",
+                    "alias": "Size",
+                    "fieldFormat": {
+                      "type": "number",
+                      "maximumFractionDigits": 2,
+                      "minimumFractionDigits": 2,
+                      "style": "decimal",
+                      "useGrouping": "always"
+                    }
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_15",
+                "icon": null,
+                "label": "Stormwater Culvert Point",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-36",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-36",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "Size",
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "Size",
+                    "name": "Size",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Size"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "Size",
+                    "name": "Size",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Size"
+                  },
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "CulvertpID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_16",
+                "icon": null,
+                "label": "Stormwater Culvert",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-35",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-35",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "MATERIAL",
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "MATERIAL",
+                    "name": "MATERIAL",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Material"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "MATERIAL",
+                    "name": "MATERIAL",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Material"
+                  },
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "CulvertID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_17",
+                "icon": null,
+                "label": "Stormwater Outfalls",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-34",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-34",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "Type",
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "Type",
+                    "name": "Type",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Type"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "Type",
+                    "name": "Type",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Type"
+                  },
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "OutfallID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_18",
+                "icon": null,
+                "label": "Stormwater Inlets",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-33",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-33",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "InvertsIn",
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "InvertsIn",
+                    "name": "InvertsIn",
+                    "type": "NUMBER",
+                    "esriType": "esriFieldTypeDouble",
+                    "alias": "Inverts In",
+                    "fieldFormat": {
+                      "type": "number",
+                      "maximumFractionDigits": 2,
+                      "minimumFractionDigits": 2,
+                      "style": "decimal",
+                      "useGrouping": "always"
+                    }
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "InvertsIn",
+                    "name": "InvertsIn",
+                    "type": "NUMBER",
+                    "esriType": "esriFieldTypeDouble",
+                    "alias": "Inverts In",
+                    "fieldFormat": {
+                      "type": "number",
+                      "maximumFractionDigits": 2,
+                      "minimumFractionDigits": 2,
+                      "style": "decimal",
+                      "useGrouping": "always"
+                    }
+                  },
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "InletID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_19",
+                "icon": null,
+                "label": "Stormwater Pipes",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-32",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-32",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "MATERIAL",
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "MATERIAL",
+                    "name": "MATERIAL",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Material"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "MATERIAL",
+                    "name": "MATERIAL",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Material"
+                  },
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "PipeID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_20",
+                "icon": null,
+                "label": "Swales",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-30",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-30",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "SwaleID",
+                    "Name"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "SwaleID",
+                    "name": "SwaleID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "SwaleID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "SwaleID",
+                    "name": "SwaleID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "SwaleID"
+                  },
+                  {
+                    "jimuName": "Name",
+                    "name": "Name",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Name"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_21",
+                "icon": null,
+                "label": "Pavement Marking Symbols",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f2447177a-layer-58",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f2447177a-layer-58",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "assetid"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Marking ID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Marking ID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_22",
+                "icon": null,
+                "label": "Pavement Marking Stripes",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471779-layer-57",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471779-layer-57",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "assetid"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Marking ID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Marking ID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_23",
+                "icon": null,
+                "label": "Pavement Marking Areas",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471777-layer-56",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471777-layer-56",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "assetid"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Marking ID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Marking ID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_24",
+                "icon": null,
+                "label": "Guardrails - Guardrails",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e8a0faaab-layer-56",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e8a0faaab-layer-56",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "assetid"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Guardrail ID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Guardrail ID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_25",
+                "icon": null,
+                "label": "Parking Segments",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-40",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-40",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_26",
+                "icon": null,
+                "label": "Sidewalks Assets",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd29a9-layer-38",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd29a9-layer-38",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_27",
+                "icon": null,
+                "label": "Road Segments",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-41",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-41",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_28",
+                "icon": null,
+                "label": "Boat  Dock",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-50",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-50",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_29",
+                "icon": null,
+                "label": "Fishing Pier",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-49",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-49",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_30",
+                "icon": null,
+                "label": "Ice Skating Rink",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-48",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-48",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_31",
+                "icon": null,
+                "label": "Picnic Shelters",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-47",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-47",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_32",
+                "icon": null,
+                "label": "Landscape Areas",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd710c-layer-58",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd710c-layer-58",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "LocationName"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "LocationName",
+                    "name": "LocationName",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Location Name"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "LocationName",
+                    "name": "LocationName",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Location Name"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_33",
+                "icon": null,
+                "label": "Earth Planters",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e8901081a-layer-59",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e8901081a-layer-59",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "esrignss_positionsourcetype"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "esrignss_positionsourcetype",
+                    "name": "esrignss_positionsourcetype",
+                    "type": "NUMBER",
+                    "esriType": "esriFieldTypeInteger",
+                    "alias": "Position source type",
+                    "fieldFormat": {
+                      "type": "number",
+                      "minimumFractionDigits": 0,
+                      "maximumFractionDigits": 0,
+                      "useGrouping": "auto"
+                    }
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "esrignss_positionsourcetype",
+                    "name": "esrignss_positionsourcetype",
+                    "type": "NUMBER",
+                    "esriType": "esriFieldTypeInteger",
+                    "alias": "Position source type",
+                    "fieldFormat": {
+                      "type": "number",
+                      "minimumFractionDigits": 0,
+                      "maximumFractionDigits": 0,
+                      "useGrouping": "auto"
+                    }
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_34",
+                "icon": null,
+                "label": "Athletic Fields and Courts",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-46",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-46",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_35",
+                "icon": null,
+                "label": "Playgrounds",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-45",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-45",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_36",
+                "icon": null,
+                "label": "Avon Pavilion and Stage",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-44",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-44",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_37",
+                "icon": null,
+                "label": "Trees",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e890138db-layer-60",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e890138db-layer-60",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "commonname",
+                    "assetid"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "commonname",
+                    "name": "commonname",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Common name"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "commonname",
+                    "name": "commonname",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Common name"
+                  },
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Tree ID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_38",
+                "icon": null,
+                "label": "Stormwater Manhole",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76e-layer-37",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76e-layer-37",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID",
+                    "Name"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  },
+                  {
+                    "jimuName": "Name",
+                    "name": "Name",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Name"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_39",
+                "icon": null,
+                "label": "Stormwater Culvert Point",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-36",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-36",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "Size",
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "Size",
+                    "name": "Size",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Size"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "Size",
+                    "name": "Size",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Size"
+                  },
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "CulvertpID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_40",
+                "icon": null,
+                "label": "Stormwater Culvert",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-35",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-35",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "MATERIAL",
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "MATERIAL",
+                    "name": "MATERIAL",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Material"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "MATERIAL",
+                    "name": "MATERIAL",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Material"
+                  },
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "CulvertID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_41",
+                "icon": null,
+                "label": "Stormwater Outfalls",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-34",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-34",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "Type",
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "Type",
+                    "name": "Type",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Type"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "Type",
+                    "name": "Type",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Type"
+                  },
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "OutfallID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_42",
+                "icon": null,
+                "label": "Stormwater Inlets",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-33",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-33",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "InvertsIn",
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "InvertsIn",
+                    "name": "InvertsIn",
+                    "type": "NUMBER",
+                    "esriType": "esriFieldTypeDouble",
+                    "alias": "Inverts In",
+                    "fieldFormat": {
+                      "type": "number",
+                      "maximumFractionDigits": 2,
+                      "minimumFractionDigits": 2,
+                      "style": "decimal",
+                      "useGrouping": "always"
+                    }
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "InvertsIn",
+                    "name": "InvertsIn",
+                    "type": "NUMBER",
+                    "esriType": "esriFieldTypeDouble",
+                    "alias": "Inverts In",
+                    "fieldFormat": {
+                      "type": "number",
+                      "maximumFractionDigits": 2,
+                      "minimumFractionDigits": 2,
+                      "style": "decimal",
+                      "useGrouping": "always"
+                    }
+                  },
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "InletID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_43",
+                "icon": null,
+                "label": "Stormwater Pipes",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-32",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-32",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "MATERIAL",
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "MATERIAL",
+                    "name": "MATERIAL",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Material"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "MATERIAL",
+                    "name": "MATERIAL",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Material"
+                  },
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "PipeID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_44",
+                "icon": null,
+                "label": "Swales",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-30",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-30",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "SwaleID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "SwaleID",
+                    "name": "SwaleID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "SwaleID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "SwaleID",
+                    "name": "SwaleID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "SwaleID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_45",
+                "icon": null,
+                "label": "Stormwater Quality Treatment Systems",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-29",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-29",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "Type"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "Type",
+                    "name": "Type",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Type"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "Type",
+                    "name": "Type",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Type"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_46",
+                "icon": null,
+                "label": "Detention Retention Pond",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76c-layer-28",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76c-layer-28",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "Type"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "Type",
+                    "name": "Type",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Type"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "Type",
+                    "name": "Type",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Type"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_47",
+                "icon": null,
+                "label": "Ditch Flumes",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce862-layer-26",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce862-layer-26",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "FlumeID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "FlumeID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_48",
+                "icon": null,
+                "label": "Ditch Flow Monitoring",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce862-layer-25",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce862-layer-25",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetType"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetType",
+                    "name": "AssetType",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetType"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetType",
+                    "name": "AssetType",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetType"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_49",
+                "icon": null,
+                "label": "Ditch Culvert points",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce861-layer-24",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce861-layer-24",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "CulvertID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "CulvertID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_50",
+                "icon": null,
+                "label": "Ditch Manholes",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce861-layer-23",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce861-layer-23",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_51",
+                "icon": null,
+                "label": "Ditch Pumps",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce861-layer-22",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce861-layer-22",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "Name"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "Name",
+                    "name": "Name",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Name"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "Name",
+                    "name": "Name",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Name"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_52",
+                "icon": null,
+                "label": "Ditch Diversions",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce860-layer-21",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce860-layer-21",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "Name"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "Name",
+                    "name": "Name",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Name"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "Name",
+                    "name": "Name",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Name"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_53",
+                "icon": null,
+                "label": "Ditch Gates Dams",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce860-layer-20",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce860-layer-20",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "Name"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "Name",
+                    "name": "Name",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Name"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "Name",
+                    "name": "Name",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Name"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_54",
+                "icon": null,
+                "label": "River Return",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce85f-layer-19",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce85f-layer-19",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_55",
+                "icon": null,
+                "label": "Ditches",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce85f-layer-18",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce85f-layer-18",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "AssetID"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "AssetID",
+                    "name": "AssetID",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "AssetID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_56",
+                "icon": null,
+                "label": "Signs",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a044973-layer-53-19e88fccd0e-layer-13",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a044973-layer-53-19e88fccd0e-layer-13",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "assetid"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Sign ID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Sign ID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_57",
+                "icon": null,
+                "label": "Sign Poles",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a044973-layer-53-19e88fccd0d-layer-12",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a044973-layer-53-19e88fccd0d-layer-12",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "assetid"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Pole ID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Pole ID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_58",
+                "icon": null,
+                "label": "Speed Feedback Sign",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a044973-layer-53-19e88fccd0c-layer-11",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a044973-layer-53-19e88fccd0c-layer-11",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "assetid"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Pole ID"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "assetid",
+                    "name": "assetid",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Pole ID"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_59",
+                "icon": null,
+                "label": "Irrigation Valves",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48e2-layer-9",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48e2-layer-9",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "ValveType"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "ValveType",
+                    "name": "ValveType",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Valve Type"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "ValveType",
+                    "name": "ValveType",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Valve Type"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_60",
+                "icon": null,
+                "label": "Irrigation Pumps",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48e1-layer-7",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48e1-layer-7",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "InletDiameterInches"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "InletDiameterInches",
+                    "name": "InletDiameterInches",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Inlet Diameter (in)"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "InletDiameterInches",
+                    "name": "InletDiameterInches",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Inlet Diameter (in)"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_61",
+                "icon": null,
+                "label": "Sprinklers",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48e2-layer-8",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48e2-layer-8",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "HeadType"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "HeadType",
+                    "name": "HeadType",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Head Type"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "HeadType",
+                    "name": "HeadType",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Head Type"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_62",
+                "icon": null,
+                "label": "Irrigation Controllers",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48e0-layer-6",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48e0-layer-6",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "ControllerType"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "ControllerType",
+                    "name": "ControllerType",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Controller Type"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "ControllerType",
+                    "name": "ControllerType",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Controller Type"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_63",
+                "icon": null,
+                "label": "Blowout Ports",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48df-layer-5",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48df-layer-5",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "BlowoutType"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "BlowoutType",
+                    "name": "BlowoutType",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Blowout Type"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "BlowoutType",
+                    "name": "BlowoutType",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Blowout Type"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_64",
+                "icon": null,
+                "label": "Backflow Preventers",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48de-layer-4",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48de-layer-4",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "DiameterInches"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "DiameterInches",
+                    "name": "DiameterInches",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Diameter (in)"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "DiameterInches",
+                    "name": "DiameterInches",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Diameter (in)"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              },
+              {
+                "configId": "config_widget_1-29074bab7513407e8e720d9edf9137d6_65",
+                "icon": null,
+                "label": "Irrigation Lines",
+                "displayLabel": true,
+                "useDataSource": {
+                  "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48db-layer-3",
+                  "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48db-layer-3",
+                  "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+                  "fields": [
+                    "LineType"
+                  ]
+                },
+                "displayFields": [
+                  {
+                    "jimuName": "LineType",
+                    "name": "LineType",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Line Type"
+                  }
+                ],
+                "searchFields": [
+                  {
+                    "jimuName": "LineType",
+                    "name": "LineType",
+                    "type": "STRING",
+                    "esriType": "esriFieldTypeString",
+                    "alias": "Line Type"
+                  }
+                ],
+                "hint": "",
+                "searchServiceType": "FeatureService",
+                "searchExact": false,
+                "searchInCurrentMapExtent": false
+              }
+            ],
+            "synchronizeSettings": false
+          }
+        },
+        "datasourceConfig": [],
+        "isAutoSelectFirstResult": true,
+        "hint": "Search by AssetID",
+        "allowSearchSourceSelection": false
+      },
+      "id": "widget_13",
+      "useMapWidgetIds": [
+        "widget_1"
+      ],
+      "useUtilities": [],
+      "outputDataSources": [],
+      "useDataSources": [
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f2447177a-layer-58",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f2447177a-layer-58",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "assetid",
+            "markingtype"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471779-layer-57",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471779-layer-57",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "assetid",
+            "markingtype"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471777-layer-56",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471777-layer-56",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "assetid",
+            "markingtype"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e8a0faaab-layer-56",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e8a0faaab-layer-56",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "assetid",
+            "grdrailtype"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-40",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-40",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "AssetID",
+            "SurfaceType"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd29a9-layer-38",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd29a9-layer-38",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "AssetID",
+            "SurfaceType"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-41",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-41",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "AssetID",
+            "SurfaceType"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-47",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-47",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "AssetID",
+            "Notes"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd710c-layer-58",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd710c-layer-58",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "LocationName",
+            "Landscape"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e8901081a-layer-59",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e8901081a-layer-59",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "esrignss_positionsourcetype",
+            "PotType"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-46",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-46",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "AssetID",
+            "AthleticFieldType"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-45",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-45",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "AssetID",
+            "Playground"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-44",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-44",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "AssetID",
+            "Name"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e890138db-layer-60",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e890138db-layer-60",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "commonname",
+            "assetid"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76e-layer-37",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76e-layer-37",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "AssetID",
+            "Size",
+            "Name"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-36",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-36",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "Size",
+            "AssetID"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-35",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-35",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "MATERIAL",
+            "AssetID"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-34",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-34",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "Type",
+            "AssetID"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-33",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-33",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "InvertsIn",
+            "AssetID"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-32",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-32",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "MATERIAL",
+            "AssetID"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-30",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-30",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "SwaleID",
+            "Name"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-50",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-50",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "AssetID"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-49",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-49",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "AssetID"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-48",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-48",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "AssetID"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-29",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-29",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "Type"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76c-layer-28",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76c-layer-28",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "Type"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce862-layer-26",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce862-layer-26",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "AssetID"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce862-layer-25",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce862-layer-25",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "AssetType"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce861-layer-24",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce861-layer-24",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "AssetID"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce861-layer-23",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce861-layer-23",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "AssetID"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce861-layer-22",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce861-layer-22",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "Name"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce860-layer-21",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce860-layer-21",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "Name"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce860-layer-20",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce860-layer-20",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "Name"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce85f-layer-19",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce85f-layer-19",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "AssetID"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce85f-layer-18",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a012de9-layer-51-19e88fce85f-layer-18",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "AssetID"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a044973-layer-53-19e88fccd0e-layer-13",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a044973-layer-53-19e88fccd0e-layer-13",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "assetid"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a044973-layer-53-19e88fccd0d-layer-12",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a044973-layer-53-19e88fccd0d-layer-12",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "assetid"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a044973-layer-53-19e88fccd0c-layer-11",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a044973-layer-53-19e88fccd0c-layer-11",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "assetid"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48e2-layer-9",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48e2-layer-9",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "ValveType"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48e1-layer-7",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48e1-layer-7",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "InletDiameterInches"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48e2-layer-8",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48e2-layer-8",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "HeadType"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48e0-layer-6",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48e0-layer-6",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "ControllerType"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48df-layer-5",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48df-layer-5",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "BlowoutType"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48de-layer-4",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48de-layer-4",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "DiameterInches"
+          ]
+        },
+        {
+          "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48db-layer-3",
+          "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a02bbe7-layer-52-19e88fc48db-layer-3",
+          "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6",
+          "fields": [
+            "LineType"
+          ]
+        }
+      ]
+    },
+    "widget_16": {
+      "uri": "widgets/ae-map-labels-search/",
+      "version": "1.0.0",
+      "label": "AE Map Labels Search",
+      "config": {},
+      "id": "widget_16",
+      "useMapWidgetIds": [
+        "widget_1"
+      ]
+    },
+    "widget_17": {
+      "uri": "widgets/arcgis/feature-info/",
+      "version": "1.21.0",
+      "label": "Feature Info",
+      "config": {
+        "styleType": "usePopupDefined"
+      },
+      "id": "widget_17",
+      "useMapWidgetIds": [
+        "widget_1"
+      ],
+      "dataActions": {
+        "showOnMap": {
+          "config": {
+            "isUseCustomSymbol": true,
+            "isOperationalLayer": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "angle": 0,
+                "xoffset": 0,
+                "yoffset": 0,
+                "size": 12,
+                "style": "esriSMSCircle",
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75,
+                "style": "esriSLSSolid"
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "type": "esriSLS",
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1,
+                  "style": "esriSLSSolid"
+                },
+                "style": "esriSFSSolid"
+              }
+            }
+          }
+        }
+      }
+    },
+    "widget_21": {
+      "uri": "widgets/ae-bulk-asset-select/",
+      "version": "1.0.0",
+      "label": "AE Bulk Asset Select",
+      "config": {},
+      "id": "widget_21",
+      "useMapWidgetIds": [
+        "widget_1"
+      ]
+    },
+    "widget_22": {
+      "uri": "widgets/common/navigator/",
+      "version": "1.21.0",
+      "label": "Views Navigation 2",
+      "config": {
+        "data": {
+          "type": "AUTO",
+          "section": "section_2",
+          "views": []
+        },
+        "display": {
+          "advanced": true,
+          "vertical": false,
+          "type": "nav",
+          "navStyle": "default",
+          "standard": {
+            "scrollable": true,
+            "textAlign": "left",
+            "gap": "0px",
+            "showText": true,
+            "showIcon": false,
+            "iconPosition": "start"
+          },
+          "variant": {
+            "item": {
+              "default": {
+                "bold": true
+              },
+              "active": {
+                "underline": true
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_22"
+    },
+    "widget_23": {
+      "uri": "widgets/ae-asset-lasso/",
+      "version": "1.0.0",
+      "label": "Asset Lasso",
+      "config": {
+        "assetIdField": "AssetID"
+      },
+      "id": "widget_23",
+      "useMapWidgetIds": [
+        "widget_1"
+      ]
+    }
+  },
+  "widgetsManifest": {},
+  "views": {
+    "view_1": {
+      "id": "view_1",
+      "label": "Layers",
+      "layout": {
+        "LARGE": "layout_6"
+      }
+    },
+    "view_2": {
+      "id": "view_2",
+      "label": "Legend",
+      "layout": {
+        "LARGE": "layout_7"
+      }
+    },
+    "view_3": {
+      "id": "view_3",
+      "label": "Search",
+      "layout": {
+        "LARGE": "layout_8"
+      }
+    },
+    "view_4": {
+      "id": "view_4",
+      "label": "Multiple Search",
+      "layout": {
+        "LARGE": "layout_10"
+      }
+    },
+    "view_5": {
+      "id": "view_5",
+      "label": "Selector Tool",
+      "layout": {
+        "LARGE": "layout_11"
+      }
+    }
+  },
+  "sections": {
+    "section_1": {
+      "id": "section_1",
+      "label": "Section",
+      "views": [
+        "view_1",
+        "view_2"
+      ],
+      "defaultView": "view_1"
+    },
+    "section_2": {
+      "id": "section_2",
+      "label": "Section 2",
+      "views": [
+        "view_3",
+        "view_4",
+        "view_5"
+      ],
+      "defaultView": "view_3"
+    }
+  },
+  "dialogs": {},
+  "messageConfigs": {
+    "messageConfig_3": {
+      "id": "messageConfig_3",
+      "messageType": "DATA_RECORD_SET_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_1-showOnMap-1785341659508_for_search_map_centric",
+          "widgetId": "widget_1",
+          "dataSourceId": null,
+          "sectionId": null,
+          "messageWidgetId": "widget_13",
+          "actionName": "showOnMap",
+          "description": null,
+          "config": {
+            "isUseCustomSymbol": true,
+            "symbolOption": {
+              "pointSymbol": {
+                "type": "esriSMS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1
+                }
+              },
+              "polylineSymbol": {
+                "type": "esriSLS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "width": 0.75
+              },
+              "polygonSymbol": {
+                "type": "esriSFS",
+                "color": [
+                  255,
+                  255,
+                  0,
+                  150
+                ],
+                "outline": {
+                  "color": [
+                    255,
+                    255,
+                    0,
+                    150
+                  ],
+                  "width": 1
+                }
+              }
+            },
+            "isOperationalLayer": true
+          },
+          "version": "1.21.0"
+        }
+      ],
+      "widgetId": "widget_13"
+    },
+    "messageConfig_4": {
+      "id": "messageConfig_4",
+      "messageType": "DATA_RECORDS_SELECTION_CHANGE",
+      "actions": [
+        {
+          "actionId": "widget_1-zoomToFeature-1785341659511_for_search_map_centric",
+          "widgetId": "widget_1",
+          "dataSourceId": null,
+          "sectionId": null,
+          "messageWidgetId": "widget_13",
+          "actionName": "zoomToFeature",
+          "description": null,
+          "config": {
+            "useDataSource": {
+              "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f2447177a-layer-58",
+              "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f2447177a-layer-58",
+              "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+            },
+            "useDataSources": [
+              {
+                "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f2447177a-layer-58",
+                "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f2447177a-layer-58",
+                "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+              },
+              {
+                "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471779-layer-57",
+                "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471779-layer-57",
+                "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+              },
+              {
+                "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471777-layer-56",
+                "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471777-layer-56",
+                "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+              },
+              {
+                "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e8a0faaab-layer-56",
+                "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e8a0faaab-layer-56",
+                "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+              },
+              {
+                "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-40",
+                "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-40",
+                "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+              },
+              {
+                "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd29a9-layer-38",
+                "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd29a9-layer-38",
+                "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+              },
+              {
+                "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-41",
+                "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-41",
+                "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+              },
+              {
+                "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-47",
+                "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-47",
+                "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+              },
+              {
+                "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd710c-layer-58",
+                "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd710c-layer-58",
+                "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+              },
+              {
+                "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e8901081a-layer-59",
+                "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e8901081a-layer-59",
+                "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+              },
+              {
+                "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-46",
+                "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-46",
+                "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+              },
+              {
+                "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-45",
+                "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-45",
+                "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+              },
+              {
+                "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-44",
+                "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-44",
+                "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+              },
+              {
+                "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e890138db-layer-60",
+                "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e890138db-layer-60",
+                "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+              },
+              {
+                "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76e-layer-37",
+                "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76e-layer-37",
+                "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+              },
+              {
+                "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-36",
+                "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-36",
+                "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+              },
+              {
+                "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-35",
+                "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-35",
+                "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+              }
+            ],
+            "goToInitialMapExtentWhenSelectionCleared": false,
+            "useAnyTriggerData": true,
+            "isUseCustomZoomToOption": true,
+            "zoomToOption": {
+              "scale": 500
+            }
+          },
+          "version": "1.21.0",
+          "useDataSources": [
+            {
+              "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f2447177a-layer-58",
+              "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f2447177a-layer-58",
+              "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+            },
+            {
+              "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471779-layer-57",
+              "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471779-layer-57",
+              "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+            },
+            {
+              "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471777-layer-56",
+              "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19f24471777-layer-56",
+              "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+            },
+            {
+              "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e8a0faaab-layer-56",
+              "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e8a0faaab-layer-56",
+              "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+            },
+            {
+              "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-40",
+              "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-40",
+              "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+            },
+            {
+              "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd29a9-layer-38",
+              "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd29a9-layer-38",
+              "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+            },
+            {
+              "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-41",
+              "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a109f1e-layer-58-19e88fd43e2-layer-41",
+              "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+            },
+            {
+              "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-47",
+              "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-47",
+              "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+            },
+            {
+              "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd710c-layer-58",
+              "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd710c-layer-58",
+              "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+            },
+            {
+              "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e8901081a-layer-59",
+              "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e8901081a-layer-59",
+              "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+            },
+            {
+              "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-46",
+              "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4ebb-layer-46",
+              "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+            },
+            {
+              "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-45",
+              "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-45",
+              "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+            },
+            {
+              "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-44",
+              "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e88fd4eba-layer-44",
+              "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+            },
+            {
+              "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e890138db-layer-60",
+              "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a058550-layer-54-19e890138db-layer-60",
+              "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+            },
+            {
+              "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76e-layer-37",
+              "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76e-layer-37",
+              "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+            },
+            {
+              "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-36",
+              "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-36",
+              "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+            },
+            {
+              "dataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-35",
+              "mainDataSourceId": "29074bab7513407e8e720d9edf9137d6-19e8a00047d-layer-50-19e88fcf76d-layer-35",
+              "rootDataSourceId": "29074bab7513407e8e720d9edf9137d6"
+            }
+          ]
+        },
+        {
+          "actionId": "section_2-change-view-action-1785342438059",
+          "widgetId": null,
+          "dataSourceId": null,
+          "sectionId": "section_2",
+          "messageWidgetId": "widget_13",
+          "actionName": "change view action",
+          "description": null,
+          "config": {},
+          "version": "1.21.0"
+        }
+      ],
+      "widgetId": "widget_13"
+    }
+  },
+  "attributes": {
+    "portalUrl": "https://AVON-COLORADO.maps.arcgis.com"
+  },
+  "timestamp": 1790725850020,
+  "sharedThemeVariables": {
+    "header": {
+      "bg": "#ffffff",
+      "color": "#383a34"
+    },
+    "body": {
+      "color": "#383a34",
+      "link": "#016473"
+    },
+    "button": {
+      "bg": "#016473",
+      "color": "#ffffff"
+    }
+  },
+  "mainLocale": "en-us",
+  "dataSources": {
+    "29074bab7513407e8e720d9edf9137d6": {
+      "type": "WEB_MAP",
+      "itemId": "29074bab7513407e8e720d9edf9137d6",
+      "id": "29074bab7513407e8e720d9edf9137d6",
+      "portalUrl": "https://AVON-COLORADO.maps.arcgis.com",
+      "sourceLabel": "AE Map Labels"
+    },
+    "widget_15_output_config_default_geocode_utility_1_0": {
+      "id": "widget_15_output_config_default_geocode_utility_1_0",
+      "type": "FEATURE_LAYER",
+      "label": "ArcGIS World Geocoding Service",
+      "originDataSources": [],
+      "isOutputFromWidget": true,
+      "isDataInDataSourceInstance": false,
+      "schema": {
+        "label": "ArcGIS World Geocoding Service",
+        "idField": "objectid",
+        "fields": {
+          "default_address": {
+            "jimuName": "default_address",
+            "alias": "Default Address",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "name": "default_address"
+          },
+          "objectid": {
+            "jimuName": "objectid",
+            "alias": "OBJECTID",
+            "esriType": "esriFieldTypeOID",
+            "type": "NUMBER",
+            "name": "objectid"
+          },
+          "Address": {
+            "jimuName": "Address",
+            "name": "Address",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Address or Place"
+          },
+          "Address2": {
+            "jimuName": "Address2",
+            "name": "Address2",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Address2"
+          },
+          "Address3": {
+            "jimuName": "Address3",
+            "name": "Address3",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Address3"
+          },
+          "Neighborhood": {
+            "jimuName": "Neighborhood",
+            "name": "Neighborhood",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Neighborhood"
+          },
+          "City": {
+            "jimuName": "City",
+            "name": "City",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "City"
+          },
+          "Subregion": {
+            "jimuName": "Subregion",
+            "name": "Subregion",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Subregion"
+          },
+          "Region": {
+            "jimuName": "Region",
+            "name": "Region",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Region"
+          },
+          "Postal": {
+            "jimuName": "Postal",
+            "name": "Postal",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Postal"
+          },
+          "PostalExt": {
+            "jimuName": "PostalExt",
+            "name": "PostalExt",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Postal Extension"
+          },
+          "CountryCode": {
+            "jimuName": "CountryCode",
+            "name": "CountryCode",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Country"
+          },
+          "Loc_name": {
+            "jimuName": "Loc_name",
+            "name": "Loc_name",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Loc_name"
+          },
+          "Status": {
+            "jimuName": "Status",
+            "name": "Status",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Status"
+          },
+          "Score": {
+            "jimuName": "Score",
+            "name": "Score",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Score",
+            "fieldFormat": {
+              "type": "number",
+              "minimumFractionDigits": 0,
+              "maximumFractionDigits": 2,
+              "useGrouping": "auto"
+            }
+          },
+          "Match_addr": {
+            "jimuName": "Match_addr",
+            "name": "Match_addr",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Match Address"
+          },
+          "LongLabel": {
+            "jimuName": "LongLabel",
+            "name": "LongLabel",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Long Label"
+          },
+          "ShortLabel": {
+            "jimuName": "ShortLabel",
+            "name": "ShortLabel",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Short Label"
+          },
+          "Addr_type": {
+            "jimuName": "Addr_type",
+            "name": "Addr_type",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Address Type"
+          },
+          "Type": {
+            "jimuName": "Type",
+            "name": "Type",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Type"
+          },
+          "PlaceName": {
+            "jimuName": "PlaceName",
+            "name": "PlaceName",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Place Name"
+          },
+          "Place_addr": {
+            "jimuName": "Place_addr",
+            "name": "Place_addr",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Place Address"
+          },
+          "Phone": {
+            "jimuName": "Phone",
+            "name": "Phone",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Phone Number"
+          },
+          "URL": {
+            "jimuName": "URL",
+            "name": "URL",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "URL"
+          },
+          "Rank": {
+            "jimuName": "Rank",
+            "name": "Rank",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Rank",
+            "fieldFormat": {
+              "type": "number",
+              "minimumFractionDigits": 0,
+              "maximumFractionDigits": 2,
+              "useGrouping": "auto"
+            }
+          },
+          "AddBldg": {
+            "jimuName": "AddBldg",
+            "name": "AddBldg",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Address Building"
+          },
+          "AddNum": {
+            "jimuName": "AddNum",
+            "name": "AddNum",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Address Number"
+          },
+          "AddNumFrom": {
+            "jimuName": "AddNumFrom",
+            "name": "AddNumFrom",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Address Number From"
+          },
+          "AddNumTo": {
+            "jimuName": "AddNumTo",
+            "name": "AddNumTo",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Address Number To"
+          },
+          "AddRange": {
+            "jimuName": "AddRange",
+            "name": "AddRange",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Address Range"
+          },
+          "Side": {
+            "jimuName": "Side",
+            "name": "Side",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Side"
+          },
+          "StPreDir": {
+            "jimuName": "StPreDir",
+            "name": "StPreDir",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Prefix Directional"
+          },
+          "StPreType": {
+            "jimuName": "StPreType",
+            "name": "StPreType",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Prefix Type"
+          },
+          "StName": {
+            "jimuName": "StName",
+            "name": "StName",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Street Name"
+          },
+          "StType": {
+            "jimuName": "StType",
+            "name": "StType",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Suffix Type"
+          },
+          "StDir": {
+            "jimuName": "StDir",
+            "name": "StDir",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Suffix Directional"
+          },
+          "BldgComp": {
+            "jimuName": "BldgComp",
+            "name": "BldgComp",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Building Complex"
+          },
+          "BldgType": {
+            "jimuName": "BldgType",
+            "name": "BldgType",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Building Type"
+          },
+          "BldgName": {
+            "jimuName": "BldgName",
+            "name": "BldgName",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Building Name"
+          },
+          "LevelType": {
+            "jimuName": "LevelType",
+            "name": "LevelType",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Level Type"
+          },
+          "LevelName": {
+            "jimuName": "LevelName",
+            "name": "LevelName",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Level Name"
+          },
+          "UnitType": {
+            "jimuName": "UnitType",
+            "name": "UnitType",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Unit Type"
+          },
+          "UnitName": {
+            "jimuName": "UnitName",
+            "name": "UnitName",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Unit Name"
+          },
+          "RoomType": {
+            "jimuName": "RoomType",
+            "name": "RoomType",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Room Type"
+          },
+          "RoomName": {
+            "jimuName": "RoomName",
+            "name": "RoomName",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Room Name"
+          },
+          "WingType": {
+            "jimuName": "WingType",
+            "name": "WingType",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Wing Type"
+          },
+          "WingName": {
+            "jimuName": "WingName",
+            "name": "WingName",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Wing Name"
+          },
+          "SubAddr": {
+            "jimuName": "SubAddr",
+            "name": "SubAddr",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Subaddress"
+          },
+          "StAddr": {
+            "jimuName": "StAddr",
+            "name": "StAddr",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Street Address"
+          },
+          "Block": {
+            "jimuName": "Block",
+            "name": "Block",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Block"
+          },
+          "Sector": {
+            "jimuName": "Sector",
+            "name": "Sector",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Sector"
+          },
+          "Nbrhd": {
+            "jimuName": "Nbrhd",
+            "name": "Nbrhd",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Neighborhood"
+          },
+          "District": {
+            "jimuName": "District",
+            "name": "District",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "District"
+          },
+          "MetroArea": {
+            "jimuName": "MetroArea",
+            "name": "MetroArea",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Metro Area"
+          },
+          "RegionAbbr": {
+            "jimuName": "RegionAbbr",
+            "name": "RegionAbbr",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Region Abbreviation"
+          },
+          "Territory": {
+            "jimuName": "Territory",
+            "name": "Territory",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Territory"
+          },
+          "Zone": {
+            "jimuName": "Zone",
+            "name": "Zone",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Zone"
+          },
+          "Country": {
+            "jimuName": "Country",
+            "name": "Country",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Country"
+          },
+          "CntryName": {
+            "jimuName": "CntryName",
+            "name": "CntryName",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Country Name"
+          },
+          "LangCode": {
+            "jimuName": "LangCode",
+            "name": "LangCode",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Language Code"
+          },
+          "Distance": {
+            "jimuName": "Distance",
+            "name": "Distance",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Distance",
+            "fieldFormat": {
+              "type": "number",
+              "minimumFractionDigits": 0,
+              "maximumFractionDigits": 2,
+              "useGrouping": "auto"
+            }
+          },
+          "X": {
+            "jimuName": "X",
+            "name": "X",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "X",
+            "fieldFormat": {
+              "type": "number",
+              "minimumFractionDigits": 0,
+              "maximumFractionDigits": 2,
+              "useGrouping": "auto"
+            }
+          },
+          "Y": {
+            "jimuName": "Y",
+            "name": "Y",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Y",
+            "fieldFormat": {
+              "type": "number",
+              "minimumFractionDigits": 0,
+              "maximumFractionDigits": 2,
+              "useGrouping": "auto"
+            }
+          },
+          "DisplayX": {
+            "jimuName": "DisplayX",
+            "name": "DisplayX",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Display X",
+            "fieldFormat": {
+              "type": "number",
+              "minimumFractionDigits": 0,
+              "maximumFractionDigits": 2,
+              "useGrouping": "auto"
+            }
+          },
+          "DisplayY": {
+            "jimuName": "DisplayY",
+            "name": "DisplayY",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Display Y",
+            "fieldFormat": {
+              "type": "number",
+              "minimumFractionDigits": 0,
+              "maximumFractionDigits": 2,
+              "useGrouping": "auto"
+            }
+          },
+          "Xmin": {
+            "jimuName": "Xmin",
+            "name": "Xmin",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Minimum X",
+            "fieldFormat": {
+              "type": "number",
+              "minimumFractionDigits": 0,
+              "maximumFractionDigits": 2,
+              "useGrouping": "auto"
+            }
+          },
+          "Xmax": {
+            "jimuName": "Xmax",
+            "name": "Xmax",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Maximum X",
+            "fieldFormat": {
+              "type": "number",
+              "minimumFractionDigits": 0,
+              "maximumFractionDigits": 2,
+              "useGrouping": "auto"
+            }
+          },
+          "Ymin": {
+            "jimuName": "Ymin",
+            "name": "Ymin",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Minimum Y",
+            "fieldFormat": {
+              "type": "number",
+              "minimumFractionDigits": 0,
+              "maximumFractionDigits": 2,
+              "useGrouping": "auto"
+            }
+          },
+          "Ymax": {
+            "jimuName": "Ymax",
+            "name": "Ymax",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeDouble",
+            "alias": "Maximum Y",
+            "fieldFormat": {
+              "type": "number",
+              "minimumFractionDigits": 0,
+              "maximumFractionDigits": 2,
+              "useGrouping": "auto"
+            }
+          },
+          "ExInfo": {
+            "jimuName": "ExInfo",
+            "name": "ExInfo",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Extra Info"
+          },
+          "MatchID": {
+            "jimuName": "MatchID",
+            "name": "MatchID",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "MatchID"
+          },
+          "PotentialID": {
+            "jimuName": "PotentialID",
+            "name": "PotentialID",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "PotentialID"
+          },
+          "MatchNarrative": {
+            "jimuName": "MatchNarrative",
+            "name": "MatchNarrative",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Match Narrative"
+          },
+          "StrucType": {
+            "jimuName": "StrucType",
+            "name": "StrucType",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Structure Type"
+          },
+          "StrucDet": {
+            "jimuName": "StrucDet",
+            "name": "StrucDet",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "Structure Details"
+          }
+        }
+      },
+      "geometryType": "esriGeometryPoint"
+    },
+    "dataSource_1": {
+      "id": "dataSource_1",
+      "type": "WEB_MAP",
+      "sourceLabel": "AE Map Labels Facilities",
+      "itemId": "d775d4f2804b4ebe8c5f18adb0720ba6",
+      "portalUrl": "https://AVON-COLORADO.maps.arcgis.com"
+    }
+  },
+  "pageStructure": [
+    {
+      "page_0": []
+    }
+  ],
+  "utilities": {
+    "utility_1": {
+      "id": "utility_1",
+      "type": "GEOCODING",
+      "name": "geocode",
+      "label": "ArcGIS World Geocoding Service",
+      "url": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer",
+      "source": "org",
+      "orgSetting": {
+        "northLat": "Ymax",
+        "southLat": "Ymin",
+        "eastLon": "Xmax",
+        "westLon": "Xmin",
+        "name": "ArcGIS World Geocoding Service",
+        "batch": true,
+        "placefinding": true,
+        "suggest": true
+      },
+      "taskName": "ArcGIS World Geocoding Service",
+      "index": 0
+    }
+  },
+  "controllerPanels": {}
+}

@@ -1,0 +1,27 @@
+{
+  "name": "ae-bulk-asset-select",
+  "label": "AE Bulk Asset Select",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.21.0",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "author": "Town of Avon",
+  "description": "Paste a list or table of Asset IDs to select and zoom to matching assets on the map.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasSettingPage": true
+  },
+  "publishMessages": [
+    "DATA_RECORDS_SELECTION_CHANGE"
+  ],
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 400,
+    "height": 430
+  }
+}
