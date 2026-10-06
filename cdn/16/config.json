@@ -371,7 +371,8 @@
           "canBaseMap": true,
           "canSelect": true,
           "canSelectState": true,
-          "canMeasure": true
+          "canMeasure": true,
+          "canCompass": false
         },
         "isUseCustomMapState": false,
         "initialMapState": null,
@@ -4226,7 +4227,7 @@
     "type": "Web Experience",
     "thumbnail": null
   },
-  "timestamp": 1790725850020,
+  "timestamp": 1791309609046,
   "sharedThemeVariables": {
     "header": {
       "bg": "#ffffff",
@@ -4903,5 +4904,5 @@
       ]
     }
   },
-  "publishTimestamp": 1790725850964
+  "publishTimestamp": 1791309610211
 }

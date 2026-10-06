@@ -371,7 +371,8 @@
           "canBaseMap": true,
           "canSelect": true,
           "canSelectState": true,
-          "canMeasure": true
+          "canMeasure": true,
+          "canCompass": false
         },
         "isUseCustomMapState": false,
         "initialMapState": null,
@@ -4219,7 +4220,7 @@
   "attributes": {
     "portalUrl": "https://AVON-COLORADO.maps.arcgis.com"
   },
-  "timestamp": 1790725850020,
+  "timestamp": 1791309609046,
   "sharedThemeVariables": {
     "header": {
       "bg": "#ffffff",
